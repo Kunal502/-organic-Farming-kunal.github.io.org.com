@@ -1,0 +1,53 @@
+.btn-group .button {
+ background-color: #abe9cd;
+background-image: linear-gradient(315deg, #abe9cd 0%, #3eadcf 74%);
+
+  border: none;
+  color: white;
+ padding: 12px; 32px;
+  text-align: center;
+  text-decoration:none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  float: left;
+    margin-left:65px;
+    margin-right:72px;
+}
+.btn-group .button:hover {
+ background-color: #abe9cd;
+background-image: linear-gradient(315deg, #abe9cd 0%, #3eadcf 74%);
+
+}
+#all{
+  background-color:Black;
+    text-align: center;
+                                
+}
+h2{
+  color:blue;
+  text-align:center;
+}
+#video{
+    text-align: center;
+}
+body{
+background-color: #abe9cd;
+background-image: linear-gradient(315deg, #abe9cd 0%, #3eadcf 74%);
+
+}
+#contact{
+    background-color: black;
+}
+#farms{
+    text-align: center;
+}
+#m{
+  position: fixed;
+    text-align: center;
+    background-color: #abe9cd;
+background-image: linear-gradient(315deg, #abe9cd 0%, #3eadcf 74%);
+    margin-top: 0x;
+ 
+}
+
